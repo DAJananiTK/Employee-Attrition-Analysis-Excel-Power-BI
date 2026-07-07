@@ -129,8 +129,6 @@ This dashboard helps HR professionals:
 
 **Janani Tamilselvan**
 
-Data Analytics | Power BI | Python | SQL | Excel
+Data Analytics | Power BI | Excel
 
----
 
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
