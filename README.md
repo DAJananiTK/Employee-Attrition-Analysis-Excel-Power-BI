@@ -10,7 +10,7 @@ The dashboard provides interactive insights to help HR professionals identify th
 
 ## 🖼️ Dashboard Preview
 
-![Employee Attrition Dashboard](attrition dashboard.png)
+![Employee Attrition Dashboard](dashboard.png)
 
 > **Note:** Replace `dashboard.png` with your actual image filename if it is different.
 
